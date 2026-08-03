@@ -1,0 +1,14 @@
+C:\wipro\Datatypes3\bin\Debug\net10.0\Datatypes3.exe
+C:\wipro\Datatypes3\bin\Debug\net10.0\Datatypes3.deps.json
+C:\wipro\Datatypes3\bin\Debug\net10.0\Datatypes3.runtimeconfig.json
+C:\wipro\Datatypes3\bin\Debug\net10.0\Datatypes3.dll
+C:\wipro\Datatypes3\bin\Debug\net10.0\Datatypes3.pdb
+C:\wipro\Datatypes3\obj\Debug\net10.0\Datatypes3.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\Datatypes3\obj\Debug\net10.0\Datatypes3.AssemblyInfoInputs.cache
+C:\wipro\Datatypes3\obj\Debug\net10.0\Datatypes3.AssemblyInfo.cs
+C:\wipro\Datatypes3\obj\Debug\net10.0\Datatypes3.csproj.CoreCompileInputs.cache
+C:\wipro\Datatypes3\obj\Debug\net10.0\Datatypes3.dll
+C:\wipro\Datatypes3\obj\Debug\net10.0\refint\Datatypes3.dll
+C:\wipro\Datatypes3\obj\Debug\net10.0\Datatypes3.pdb
+C:\wipro\Datatypes3\obj\Debug\net10.0\Datatypes3.genruntimeconfig.cache
+C:\wipro\Datatypes3\obj\Debug\net10.0\ref\Datatypes3.dll

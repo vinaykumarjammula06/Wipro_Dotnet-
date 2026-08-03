@@ -1,0 +1,14 @@
+C:\wipro\filehandling1\bin\Debug\net10.0\filehandling1.exe
+C:\wipro\filehandling1\bin\Debug\net10.0\filehandling1.deps.json
+C:\wipro\filehandling1\bin\Debug\net10.0\filehandling1.runtimeconfig.json
+C:\wipro\filehandling1\bin\Debug\net10.0\filehandling1.dll
+C:\wipro\filehandling1\bin\Debug\net10.0\filehandling1.pdb
+C:\wipro\filehandling1\obj\Debug\net10.0\filehandling1.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\filehandling1\obj\Debug\net10.0\filehandling1.AssemblyInfoInputs.cache
+C:\wipro\filehandling1\obj\Debug\net10.0\filehandling1.AssemblyInfo.cs
+C:\wipro\filehandling1\obj\Debug\net10.0\filehandling1.csproj.CoreCompileInputs.cache
+C:\wipro\filehandling1\obj\Debug\net10.0\filehandling1.dll
+C:\wipro\filehandling1\obj\Debug\net10.0\refint\filehandling1.dll
+C:\wipro\filehandling1\obj\Debug\net10.0\filehandling1.pdb
+C:\wipro\filehandling1\obj\Debug\net10.0\filehandling1.genruntimeconfig.cache
+C:\wipro\filehandling1\obj\Debug\net10.0\ref\filehandling1.dll

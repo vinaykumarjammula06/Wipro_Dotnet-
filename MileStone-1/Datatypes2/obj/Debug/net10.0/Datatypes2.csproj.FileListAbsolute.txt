@@ -1,0 +1,14 @@
+C:\wipro\Datatypes2\bin\Debug\net10.0\Datatypes2.exe
+C:\wipro\Datatypes2\bin\Debug\net10.0\Datatypes2.deps.json
+C:\wipro\Datatypes2\bin\Debug\net10.0\Datatypes2.runtimeconfig.json
+C:\wipro\Datatypes2\bin\Debug\net10.0\Datatypes2.dll
+C:\wipro\Datatypes2\bin\Debug\net10.0\Datatypes2.pdb
+C:\wipro\Datatypes2\obj\Debug\net10.0\Datatypes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\Datatypes2\obj\Debug\net10.0\Datatypes2.AssemblyInfoInputs.cache
+C:\wipro\Datatypes2\obj\Debug\net10.0\Datatypes2.AssemblyInfo.cs
+C:\wipro\Datatypes2\obj\Debug\net10.0\Datatypes2.csproj.CoreCompileInputs.cache
+C:\wipro\Datatypes2\obj\Debug\net10.0\Datatypes2.dll
+C:\wipro\Datatypes2\obj\Debug\net10.0\refint\Datatypes2.dll
+C:\wipro\Datatypes2\obj\Debug\net10.0\Datatypes2.pdb
+C:\wipro\Datatypes2\obj\Debug\net10.0\Datatypes2.genruntimeconfig.cache
+C:\wipro\Datatypes2\obj\Debug\net10.0\ref\Datatypes2.dll

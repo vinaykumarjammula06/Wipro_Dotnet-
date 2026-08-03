@@ -1,0 +1,14 @@
+C:\wipro\arrays1\bin\Debug\net10.0\arrays1.exe
+C:\wipro\arrays1\bin\Debug\net10.0\arrays1.deps.json
+C:\wipro\arrays1\bin\Debug\net10.0\arrays1.runtimeconfig.json
+C:\wipro\arrays1\bin\Debug\net10.0\arrays1.dll
+C:\wipro\arrays1\bin\Debug\net10.0\arrays1.pdb
+C:\wipro\arrays1\obj\Debug\net10.0\arrays1.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\arrays1\obj\Debug\net10.0\arrays1.AssemblyInfoInputs.cache
+C:\wipro\arrays1\obj\Debug\net10.0\arrays1.AssemblyInfo.cs
+C:\wipro\arrays1\obj\Debug\net10.0\arrays1.csproj.CoreCompileInputs.cache
+C:\wipro\arrays1\obj\Debug\net10.0\arrays1.dll
+C:\wipro\arrays1\obj\Debug\net10.0\refint\arrays1.dll
+C:\wipro\arrays1\obj\Debug\net10.0\arrays1.pdb
+C:\wipro\arrays1\obj\Debug\net10.0\arrays1.genruntimeconfig.cache
+C:\wipro\arrays1\obj\Debug\net10.0\ref\arrays1.dll

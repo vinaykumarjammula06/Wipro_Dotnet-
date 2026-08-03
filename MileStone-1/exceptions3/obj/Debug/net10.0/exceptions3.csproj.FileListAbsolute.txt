@@ -1,0 +1,14 @@
+C:\wipro\exceptions3\bin\Debug\net10.0\exceptions3.exe
+C:\wipro\exceptions3\bin\Debug\net10.0\exceptions3.deps.json
+C:\wipro\exceptions3\bin\Debug\net10.0\exceptions3.runtimeconfig.json
+C:\wipro\exceptions3\bin\Debug\net10.0\exceptions3.dll
+C:\wipro\exceptions3\bin\Debug\net10.0\exceptions3.pdb
+C:\wipro\exceptions3\obj\Debug\net10.0\exceptions3.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\exceptions3\obj\Debug\net10.0\exceptions3.AssemblyInfoInputs.cache
+C:\wipro\exceptions3\obj\Debug\net10.0\exceptions3.AssemblyInfo.cs
+C:\wipro\exceptions3\obj\Debug\net10.0\exceptions3.csproj.CoreCompileInputs.cache
+C:\wipro\exceptions3\obj\Debug\net10.0\exceptions3.dll
+C:\wipro\exceptions3\obj\Debug\net10.0\refint\exceptions3.dll
+C:\wipro\exceptions3\obj\Debug\net10.0\exceptions3.pdb
+C:\wipro\exceptions3\obj\Debug\net10.0\exceptions3.genruntimeconfig.cache
+C:\wipro\exceptions3\obj\Debug\net10.0\ref\exceptions3.dll

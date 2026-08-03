@@ -1,0 +1,14 @@
+C:\wipro\operators1\bin\Debug\net10.0\operators1.exe
+C:\wipro\operators1\bin\Debug\net10.0\operators1.deps.json
+C:\wipro\operators1\bin\Debug\net10.0\operators1.runtimeconfig.json
+C:\wipro\operators1\bin\Debug\net10.0\operators1.dll
+C:\wipro\operators1\bin\Debug\net10.0\operators1.pdb
+C:\wipro\operators1\obj\Debug\net10.0\operators1.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\operators1\obj\Debug\net10.0\operators1.AssemblyInfoInputs.cache
+C:\wipro\operators1\obj\Debug\net10.0\operators1.AssemblyInfo.cs
+C:\wipro\operators1\obj\Debug\net10.0\operators1.csproj.CoreCompileInputs.cache
+C:\wipro\operators1\obj\Debug\net10.0\operators1.dll
+C:\wipro\operators1\obj\Debug\net10.0\refint\operators1.dll
+C:\wipro\operators1\obj\Debug\net10.0\operators1.pdb
+C:\wipro\operators1\obj\Debug\net10.0\operators1.genruntimeconfig.cache
+C:\wipro\operators1\obj\Debug\net10.0\ref\operators1.dll

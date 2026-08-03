@@ -1,0 +1,14 @@
+C:\wipro\Methodsandproperties3\bin\Debug\net10.0\Methodsandproperties3.exe
+C:\wipro\Methodsandproperties3\bin\Debug\net10.0\Methodsandproperties3.deps.json
+C:\wipro\Methodsandproperties3\bin\Debug\net10.0\Methodsandproperties3.runtimeconfig.json
+C:\wipro\Methodsandproperties3\bin\Debug\net10.0\Methodsandproperties3.dll
+C:\wipro\Methodsandproperties3\bin\Debug\net10.0\Methodsandproperties3.pdb
+C:\wipro\Methodsandproperties3\obj\Debug\net10.0\Methodsandproperties3.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\Methodsandproperties3\obj\Debug\net10.0\Methodsandproperties3.AssemblyInfoInputs.cache
+C:\wipro\Methodsandproperties3\obj\Debug\net10.0\Methodsandproperties3.AssemblyInfo.cs
+C:\wipro\Methodsandproperties3\obj\Debug\net10.0\Methodsandproperties3.csproj.CoreCompileInputs.cache
+C:\wipro\Methodsandproperties3\obj\Debug\net10.0\Methodsandproperties3.dll
+C:\wipro\Methodsandproperties3\obj\Debug\net10.0\refint\Methodsandproperties3.dll
+C:\wipro\Methodsandproperties3\obj\Debug\net10.0\Methodsandproperties3.pdb
+C:\wipro\Methodsandproperties3\obj\Debug\net10.0\Methodsandproperties3.genruntimeconfig.cache
+C:\wipro\Methodsandproperties3\obj\Debug\net10.0\ref\Methodsandproperties3.dll

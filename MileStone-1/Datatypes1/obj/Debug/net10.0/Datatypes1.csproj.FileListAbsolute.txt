@@ -1,0 +1,14 @@
+C:\wipro\Datatypes1\bin\Debug\net10.0\Datatypes1.exe
+C:\wipro\Datatypes1\bin\Debug\net10.0\Datatypes1.deps.json
+C:\wipro\Datatypes1\bin\Debug\net10.0\Datatypes1.runtimeconfig.json
+C:\wipro\Datatypes1\bin\Debug\net10.0\Datatypes1.dll
+C:\wipro\Datatypes1\bin\Debug\net10.0\Datatypes1.pdb
+C:\wipro\Datatypes1\obj\Debug\net10.0\Datatypes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\Datatypes1\obj\Debug\net10.0\Datatypes1.AssemblyInfoInputs.cache
+C:\wipro\Datatypes1\obj\Debug\net10.0\Datatypes1.AssemblyInfo.cs
+C:\wipro\Datatypes1\obj\Debug\net10.0\Datatypes1.csproj.CoreCompileInputs.cache
+C:\wipro\Datatypes1\obj\Debug\net10.0\Datatypes1.dll
+C:\wipro\Datatypes1\obj\Debug\net10.0\refint\Datatypes1.dll
+C:\wipro\Datatypes1\obj\Debug\net10.0\Datatypes1.pdb
+C:\wipro\Datatypes1\obj\Debug\net10.0\Datatypes1.genruntimeconfig.cache
+C:\wipro\Datatypes1\obj\Debug\net10.0\ref\Datatypes1.dll

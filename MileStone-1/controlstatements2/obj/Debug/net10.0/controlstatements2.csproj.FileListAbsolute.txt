@@ -1,0 +1,14 @@
+C:\wipro\controlstatements2\bin\Debug\net10.0\controlstatements2.exe
+C:\wipro\controlstatements2\bin\Debug\net10.0\controlstatements2.deps.json
+C:\wipro\controlstatements2\bin\Debug\net10.0\controlstatements2.runtimeconfig.json
+C:\wipro\controlstatements2\bin\Debug\net10.0\controlstatements2.dll
+C:\wipro\controlstatements2\bin\Debug\net10.0\controlstatements2.pdb
+C:\wipro\controlstatements2\obj\Debug\net10.0\controlstatements2.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\controlstatements2\obj\Debug\net10.0\controlstatements2.AssemblyInfoInputs.cache
+C:\wipro\controlstatements2\obj\Debug\net10.0\controlstatements2.AssemblyInfo.cs
+C:\wipro\controlstatements2\obj\Debug\net10.0\controlstatements2.csproj.CoreCompileInputs.cache
+C:\wipro\controlstatements2\obj\Debug\net10.0\controlstatements2.dll
+C:\wipro\controlstatements2\obj\Debug\net10.0\refint\controlstatements2.dll
+C:\wipro\controlstatements2\obj\Debug\net10.0\controlstatements2.pdb
+C:\wipro\controlstatements2\obj\Debug\net10.0\controlstatements2.genruntimeconfig.cache
+C:\wipro\controlstatements2\obj\Debug\net10.0\ref\controlstatements2.dll

@@ -1,0 +1,14 @@
+C:\wipro\polymorphism1\bin\Debug\net10.0\polymorphism1.exe
+C:\wipro\polymorphism1\bin\Debug\net10.0\polymorphism1.deps.json
+C:\wipro\polymorphism1\bin\Debug\net10.0\polymorphism1.runtimeconfig.json
+C:\wipro\polymorphism1\bin\Debug\net10.0\polymorphism1.dll
+C:\wipro\polymorphism1\bin\Debug\net10.0\polymorphism1.pdb
+C:\wipro\polymorphism1\obj\Debug\net10.0\polymorphism1.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\polymorphism1\obj\Debug\net10.0\polymorphism1.AssemblyInfoInputs.cache
+C:\wipro\polymorphism1\obj\Debug\net10.0\polymorphism1.AssemblyInfo.cs
+C:\wipro\polymorphism1\obj\Debug\net10.0\polymorphism1.csproj.CoreCompileInputs.cache
+C:\wipro\polymorphism1\obj\Debug\net10.0\polymorphism1.dll
+C:\wipro\polymorphism1\obj\Debug\net10.0\refint\polymorphism1.dll
+C:\wipro\polymorphism1\obj\Debug\net10.0\polymorphism1.pdb
+C:\wipro\polymorphism1\obj\Debug\net10.0\polymorphism1.genruntimeconfig.cache
+C:\wipro\polymorphism1\obj\Debug\net10.0\ref\polymorphism1.dll

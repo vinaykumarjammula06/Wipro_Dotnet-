@@ -1,0 +1,14 @@
+C:\wipro\inheritance3\bin\Debug\net10.0\inheritance3.exe
+C:\wipro\inheritance3\bin\Debug\net10.0\inheritance3.deps.json
+C:\wipro\inheritance3\bin\Debug\net10.0\inheritance3.runtimeconfig.json
+C:\wipro\inheritance3\bin\Debug\net10.0\inheritance3.dll
+C:\wipro\inheritance3\bin\Debug\net10.0\inheritance3.pdb
+C:\wipro\inheritance3\obj\Debug\net10.0\inheritance3.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\inheritance3\obj\Debug\net10.0\inheritance3.AssemblyInfoInputs.cache
+C:\wipro\inheritance3\obj\Debug\net10.0\inheritance3.AssemblyInfo.cs
+C:\wipro\inheritance3\obj\Debug\net10.0\inheritance3.csproj.CoreCompileInputs.cache
+C:\wipro\inheritance3\obj\Debug\net10.0\inheritance3.dll
+C:\wipro\inheritance3\obj\Debug\net10.0\refint\inheritance3.dll
+C:\wipro\inheritance3\obj\Debug\net10.0\inheritance3.pdb
+C:\wipro\inheritance3\obj\Debug\net10.0\inheritance3.genruntimeconfig.cache
+C:\wipro\inheritance3\obj\Debug\net10.0\ref\inheritance3.dll

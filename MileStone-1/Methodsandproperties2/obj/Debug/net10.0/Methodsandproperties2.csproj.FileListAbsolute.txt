@@ -1,0 +1,14 @@
+C:\wipro\Methodsandproperties2\bin\Debug\net10.0\Methodsandproperties2.exe
+C:\wipro\Methodsandproperties2\bin\Debug\net10.0\Methodsandproperties2.deps.json
+C:\wipro\Methodsandproperties2\bin\Debug\net10.0\Methodsandproperties2.runtimeconfig.json
+C:\wipro\Methodsandproperties2\bin\Debug\net10.0\Methodsandproperties2.dll
+C:\wipro\Methodsandproperties2\bin\Debug\net10.0\Methodsandproperties2.pdb
+C:\wipro\Methodsandproperties2\obj\Debug\net10.0\Methodsandproperties2.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\Methodsandproperties2\obj\Debug\net10.0\Methodsandproperties2.AssemblyInfoInputs.cache
+C:\wipro\Methodsandproperties2\obj\Debug\net10.0\Methodsandproperties2.AssemblyInfo.cs
+C:\wipro\Methodsandproperties2\obj\Debug\net10.0\Methodsandproperties2.csproj.CoreCompileInputs.cache
+C:\wipro\Methodsandproperties2\obj\Debug\net10.0\Methodsandproperties2.dll
+C:\wipro\Methodsandproperties2\obj\Debug\net10.0\refint\Methodsandproperties2.dll
+C:\wipro\Methodsandproperties2\obj\Debug\net10.0\Methodsandproperties2.pdb
+C:\wipro\Methodsandproperties2\obj\Debug\net10.0\Methodsandproperties2.genruntimeconfig.cache
+C:\wipro\Methodsandproperties2\obj\Debug\net10.0\ref\Methodsandproperties2.dll
