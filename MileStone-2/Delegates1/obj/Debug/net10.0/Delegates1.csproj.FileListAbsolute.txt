@@ -1,0 +1,14 @@
+C:\wipro\Delegates1\bin\Debug\net10.0\Delegates1.exe
+C:\wipro\Delegates1\bin\Debug\net10.0\Delegates1.deps.json
+C:\wipro\Delegates1\bin\Debug\net10.0\Delegates1.runtimeconfig.json
+C:\wipro\Delegates1\bin\Debug\net10.0\Delegates1.dll
+C:\wipro\Delegates1\bin\Debug\net10.0\Delegates1.pdb
+C:\wipro\Delegates1\obj\Debug\net10.0\Delegates1.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\Delegates1\obj\Debug\net10.0\Delegates1.AssemblyInfoInputs.cache
+C:\wipro\Delegates1\obj\Debug\net10.0\Delegates1.AssemblyInfo.cs
+C:\wipro\Delegates1\obj\Debug\net10.0\Delegates1.csproj.CoreCompileInputs.cache
+C:\wipro\Delegates1\obj\Debug\net10.0\Delegates1.dll
+C:\wipro\Delegates1\obj\Debug\net10.0\refint\Delegates1.dll
+C:\wipro\Delegates1\obj\Debug\net10.0\Delegates1.pdb
+C:\wipro\Delegates1\obj\Debug\net10.0\Delegates1.genruntimeconfig.cache
+C:\wipro\Delegates1\obj\Debug\net10.0\ref\Delegates1.dll
