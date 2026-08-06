@@ -1,0 +1,14 @@
+C:\wipro\Generics1\bin\Debug\net10.0\Generics1.exe
+C:\wipro\Generics1\bin\Debug\net10.0\Generics1.deps.json
+C:\wipro\Generics1\bin\Debug\net10.0\Generics1.runtimeconfig.json
+C:\wipro\Generics1\bin\Debug\net10.0\Generics1.dll
+C:\wipro\Generics1\bin\Debug\net10.0\Generics1.pdb
+C:\wipro\Generics1\obj\Debug\net10.0\Generics1.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\Generics1\obj\Debug\net10.0\Generics1.AssemblyInfoInputs.cache
+C:\wipro\Generics1\obj\Debug\net10.0\Generics1.AssemblyInfo.cs
+C:\wipro\Generics1\obj\Debug\net10.0\Generics1.csproj.CoreCompileInputs.cache
+C:\wipro\Generics1\obj\Debug\net10.0\Generics1.dll
+C:\wipro\Generics1\obj\Debug\net10.0\refint\Generics1.dll
+C:\wipro\Generics1\obj\Debug\net10.0\Generics1.pdb
+C:\wipro\Generics1\obj\Debug\net10.0\Generics1.genruntimeconfig.cache
+C:\wipro\Generics1\obj\Debug\net10.0\ref\Generics1.dll

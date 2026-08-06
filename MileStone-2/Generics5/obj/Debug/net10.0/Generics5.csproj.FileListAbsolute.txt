@@ -1,0 +1,14 @@
+C:\wipro\Generics5\bin\Debug\net10.0\Generics5.exe
+C:\wipro\Generics5\bin\Debug\net10.0\Generics5.deps.json
+C:\wipro\Generics5\bin\Debug\net10.0\Generics5.runtimeconfig.json
+C:\wipro\Generics5\bin\Debug\net10.0\Generics5.dll
+C:\wipro\Generics5\bin\Debug\net10.0\Generics5.pdb
+C:\wipro\Generics5\obj\Debug\net10.0\Generics5.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\Generics5\obj\Debug\net10.0\Generics5.AssemblyInfoInputs.cache
+C:\wipro\Generics5\obj\Debug\net10.0\Generics5.AssemblyInfo.cs
+C:\wipro\Generics5\obj\Debug\net10.0\Generics5.csproj.CoreCompileInputs.cache
+C:\wipro\Generics5\obj\Debug\net10.0\Generics5.dll
+C:\wipro\Generics5\obj\Debug\net10.0\refint\Generics5.dll
+C:\wipro\Generics5\obj\Debug\net10.0\Generics5.pdb
+C:\wipro\Generics5\obj\Debug\net10.0\Generics5.genruntimeconfig.cache
+C:\wipro\Generics5\obj\Debug\net10.0\ref\Generics5.dll

@@ -1,0 +1,14 @@
+C:\wipro\Collections1\bin\Debug\net10.0\Collections1.exe
+C:\wipro\Collections1\bin\Debug\net10.0\Collections1.deps.json
+C:\wipro\Collections1\bin\Debug\net10.0\Collections1.runtimeconfig.json
+C:\wipro\Collections1\bin\Debug\net10.0\Collections1.dll
+C:\wipro\Collections1\bin\Debug\net10.0\Collections1.pdb
+C:\wipro\Collections1\obj\Debug\net10.0\Collections1.GeneratedMSBuildEditorConfig.editorconfig
+C:\wipro\Collections1\obj\Debug\net10.0\Collections1.AssemblyInfoInputs.cache
+C:\wipro\Collections1\obj\Debug\net10.0\Collections1.AssemblyInfo.cs
+C:\wipro\Collections1\obj\Debug\net10.0\Collections1.csproj.CoreCompileInputs.cache
+C:\wipro\Collections1\obj\Debug\net10.0\Collections1.dll
+C:\wipro\Collections1\obj\Debug\net10.0\refint\Collections1.dll
+C:\wipro\Collections1\obj\Debug\net10.0\Collections1.pdb
+C:\wipro\Collections1\obj\Debug\net10.0\Collections1.genruntimeconfig.cache
+C:\wipro\Collections1\obj\Debug\net10.0\ref\Collections1.dll
